@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, grey, aquamarine);
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    color: rgb(29, 63, 55);
+}
+.comment{
+    background-color: rgb(18, 98, 72);
+    color: wheat;
+    width:800px; 
+    margin:0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-style: double;
+    border-color: black;
+    text-align: center; 
+}
